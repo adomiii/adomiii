@@ -5,7 +5,7 @@ using namespace std;
 
 class Adam {
   public:
-  name = "Adam";
+  string name = "Adam";
   string hobbys[3] = {"Gaming, ", "Coding, ", "and Computer Science"};
 
   void welcome() {
@@ -26,13 +26,13 @@ My name is Adam and I normally code using vscode and code in c++, sadly I don't 
 
 # Background
 
-I first started coding when I was 7, I used scratch to code, I watch the platformer griffpatch tutorial, I failed at episode 4 (Slopes & Limbs Posing), Oh yeah my scratch username.... was SadMan67819, sadly this account is deleted, I made another account called.... XxBlackInWhitexX................................... My account is still up https://scratch.mit.edu/users/XxBlackInWhitexX/. Don't let the date fool you the account wasnt made 11 months ago, it was made 3 years ago, I don't know why it shows 11 months. Now at 8, I started to code with text-based languages and what I wanted to learn was C++, But I couldn't learn all of it cause the tutorial I used didn't cover all of C++. When I learn't C++ I got bored and for eid I got a arduino, I downloaded Arduino IDE on my pc and followed the pdf tutorial that came with it. Then I got bored of that when I was 10, so I made a calculator in JS of course.. https://calalculator.netlify.app, subtracting didn't work... "Evidence Jood" is there cuz I wanted to show my best friend that I made this website, and his name is Jood. and that's it. Now my main language I code in is C++
+I first started coding when I was 7, I used scratch to code, I watch the platformer griffpatch tutorial, I failed at episode 4 (Slopes & Limbs Posing), Oh yeah my scratch username.... was SadMan67819, sadly this account is deleted, I made another account called.... XxBlackInWhitexX................................... My account is still up https://scratch.mit.edu/users/XxBlackInWhitexX/. Don't let the date fool you the account wasnt made 11 months ago, it was made 3 years ago, I don't know why it shows 11 months. Now at 8, I started to code with text-based languages and what I wanted to learn was C++, But I couldn't learn all of it cause the tutorial I used didn't cover all of C++. When I learn't C++ I got bored and for eid I got a arduino, I downloaded Arduino IDE on my pc and followed the pdf tutorial that came with it. Then I got bored of that when I was 9, so I made a calculator in JS, https://calalculator.netlify.app, subtracting didn't work... "Evidence Jood" is there cuz I wanted to show my best friend that I made this website, and his name is Jood. and that's it. Now my main language I code in is C++, But I still don't know all of C++
 
 
 ---
 
 ## Currently Working On
-- **Sadly Nothing...**
+- **Super Tic Tac Toe: **I want to see if I can make it.
 
 # Library
 
